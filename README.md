@@ -1,4 +1,4 @@
-# To Do Progressive Web App
+# Doto Progressive Web App
 
 A lightweight sync server that requires very small storage footprint without it knowing the contents of the user's data.
 
